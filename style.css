@@ -1,0 +1,8 @@
+h1 {
+      margin-bottom: 15px;
+       font-size: 60px;
+    /* This will color the heading font white. */
+    color: black;
+    text-align: center;
+    /* The background of the heading element will now be black. */
+    background-color: white;
